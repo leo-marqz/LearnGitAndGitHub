@@ -27,3 +27,4 @@
 - git reset --soft HEAD~1: nos permite deshacer commits, en este caso lo hacemos con el commit anterior al actual(HEAD). remueve el commit.
 - git revert HEAD: nos permite revertir un commit creando un nuevo commit, eso nos evita darle problemas a otros desarrolladores, no afectamos el historias de commits.
 - git revert --continue: este comando nos ayuda a seguir con una reversion cuando al ejecutar el comando anterior tenemos algun tipo de conflicto (conflictos de union).
+- git diff --staged: nos permite visualizar que archivos o que cambios estan en el area de preparacion (Que ha cambiado?).
