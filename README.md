@@ -18,3 +18,4 @@
 - git log --oneline: muestra los commits sin detalles y en una sola linea por commit.
 - git log -n 2: permite limitar la cantidad de commits que deseamos visualizar.
 - git log README.md: me permite visualizar los commits sobre este archivo.
+- git --amend: nos permite enmendar un error o corregir el mensaje de commit.
