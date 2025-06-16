@@ -22,3 +22,5 @@
 - git add . luego git commit --amend: esto es para casos en los que se nos olvido agregar uno de dos archivos al staying para luego persistirlos, primero agregamos el archivo faltante y luego corregimos el commit.
 - git show: permite visualizar los cambios del ultimo commit.
 - git show HEAD~1: permite visualizar los cambios del commit anterior al ultimo realizado.
+- git restore info.txt: nos permite resturar cambios por ejemplo contenido en uno o mas archivos (sin commits).
+- git reset info.txt: se usa cuando deseamos sacar del staying los cambios de un archivo. al hacer commit no se tomara en cuenta los cambios de este archivo hasta que los llevemos al staying y hagamos commit.
