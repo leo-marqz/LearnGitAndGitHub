@@ -34,3 +34,4 @@
 - los mensajes deben ser cortos y explicar lo que hace lo que describe el commit, no lo que tu mismo hiciste.
 - Tomando en cuenta lo antes mencionado, habra ocasiones donde sea necesario mayor contexto y se permiten los mensajes multilineas aunque lo ideas se mensajes cortos y concisos.
 - Se recomienda usar herramientas de seguimiento las cuales generan codigos por bugs o tareas, asi puedes agregar un commit: [BUG-182849], asi despues puedes agrupar los commits realizados en relacion a una tarea o commit.
+- Es recomendable usar el archivo .gitignore para evitar enviar al repositorio compilaciones o archivos pesados o paquetes que pueden ser facilmente recreados a ejecutar un comando de instalacion o para evitar subir claves o secretos a un repositorio de codigo en especial si es publico.
