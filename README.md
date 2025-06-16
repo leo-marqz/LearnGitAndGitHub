@@ -24,4 +24,5 @@
 - git show HEAD~1: permite visualizar los cambios del commit anterior al ultimo realizado.
 - git restore info.txt: nos permite resturar cambios por ejemplo contenido en uno o mas archivos (sin commits).
 - git reset info.txt: se usa cuando deseamos sacar del staying los cambios de un archivo. al hacer commit no se tomara en cuenta los cambios de este archivo hasta que los llevemos al staying y hagamos commit.
-- git reset --soft HEAD~1: nos permite deshacer commits, en este caso lo hacemos con el ultimo commit.
+- git reset --soft HEAD~1: nos permite deshacer commits, en este caso lo hacemos con el ultimo commit. remueve el commit.
+- git revert HEAD: nos permite revertir un commit creando un nuevo commit, eso nos evita darle problemas a otros desarrolladores, no afectamos el historias de commits.
