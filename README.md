@@ -26,3 +26,4 @@
 - git reset info.txt: se usa cuando deseamos sacar del staying los cambios de un archivo. al hacer commit no se tomara en cuenta los cambios de este archivo hasta que los llevemos al staying y hagamos commit.
 - git reset --soft HEAD~1: nos permite deshacer commits, en este caso lo hacemos con el commit anterior al actual(HEAD). remueve el commit.
 - git revert HEAD: nos permite revertir un commit creando un nuevo commit, eso nos evita darle problemas a otros desarrolladores, no afectamos el historias de commits.
+- git revert --continue: este comando nos ayuda a seguir con una reversion cuando al ejecutar el comando anterior tenemos algun tipo de conflicto.
