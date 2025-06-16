@@ -32,3 +32,5 @@
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
 - los mensajes deben ser cortos y explicar lo que hace lo que describe el commit, no lo que tu mismo hiciste.
+- Tomando en cuenta lo antes mencionado, habra ocasiones donde sea necesario mayor contexto y se permiten los mensajes multilineas aunque lo ideas se mensajes cortos y concisos.
+- Se recomienda usar herramientas de seguimiento las cuales generan codigos por bugs o tareas, asi puedes agregar un commit: [BUG-182849], asi despues puedes agrupar los commits realizados en relacion a una tarea o commit.
