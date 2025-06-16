@@ -13,3 +13,8 @@
 - git add confidencial/: agregando carpetas completas al staying, dejandolos listos para el commit.
 - git add .: agrega todos los cambios existentes al area de staying.
 - git commit -m "": comando para mover del staying al reposotirio los cambios y agregando un mensaje. Persiste los datos.
+- git commit -am "": permite agregar los cambios y persistirlos a la vez, la condicion es que solo aplica para archivos a los que ya anteriormente se les da seguimiento, no para archivos nuevos.
+- git log: muestras nuestros commits con detalles.
+- git log --oneline: muestra los commits sin detalles y en una sola linea por commit.
+- git log -n 2: permite limitar la cantidad de commits que deseamos visualizar.
+- git log README.md: me permite visualizar los commits sobre este archivo.
