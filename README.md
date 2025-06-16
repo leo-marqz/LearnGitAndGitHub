@@ -19,3 +19,4 @@
 - git log -n 2: permite limitar la cantidad de commits que deseamos visualizar.
 - git log README.md: me permite visualizar los commits sobre este archivo.
 - git commit --amend: nos permite enmendar un error o corregir el mensaje de commit.
+- git add . luego git commit --amend: esto es para casos en los que se nos olvido agregar uno de dos archivos al staying para luego persistirlos, primero agregamos el archivo faltante y luego corregimos el commit.
