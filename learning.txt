@@ -1,1 +1,5 @@
 Hello World from Git with NotePad of Windows 11
+
+Terminamos la seccion 2 del curso
+
+etiqueta: version 1.0.0
