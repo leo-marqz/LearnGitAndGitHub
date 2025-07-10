@@ -39,3 +39,4 @@
 - git branch: los listas las ramas existentes y nos muestra en cual nos encontramos actualmente.
 - git switch <nombre_rama>: moverse entre ramas.
 - git switch -c <nombre_rama>: crea una nueva rama y te mueve hacia ella despues de crearla.
+- git branch -d <nombre_rama>: Eliminar rama.
