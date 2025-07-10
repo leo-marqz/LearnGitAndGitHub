@@ -4,4 +4,5 @@ Esta linea se creo estando en la rama llamada crear-nuevo-parrafo.
 
 Ocurrieron cambios en la rama master mientras se trabaja en la rama nueva-rama-archivo.
 
-Esta edicion la hice en la rama master.
+Esta edicion la hice en la rama master y rama-conflicto.
+
