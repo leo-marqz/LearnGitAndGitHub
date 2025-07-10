@@ -1,0 +1,15 @@
+comando ejecutado: git rebease -i HEAD~3
+
+Resultado:
+
+pick 172663 commit #1
+pick 138437 commit #2
+pick 163548 commit #3
+
+para hacer un squash debemos hacer lo siguiente:
+
+pick 172663 commit #1
+squash 138437 commit #2
+squash 163548 commit #3
+
+asi hacemos que esos tres commits se hagan uno solo

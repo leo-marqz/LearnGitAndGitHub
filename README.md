@@ -35,6 +35,7 @@
 - git branch -d <nombre_rama>: Eliminar rama.
 - git log --oneline --graph: nos permite ver los commits e historicos de cambios mostrando las ramas.
 - git rebase <nombre_rama>: usado comunmente para traernos los posibles nuevos cambios de la rama main o master hacia nuestra rama de desarrollo, antes de realizar un merge de la rama en desarrollo con la main o master.
+- git rebase -i HEAD~3: Este comando nos permite aplastar o hacer de muchos commits a uno solo. Aqui indicamos que tome en cuenta desde HEAD hacia atras, 3 commits, los cuales convertiriamos en uno solo.
 
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
