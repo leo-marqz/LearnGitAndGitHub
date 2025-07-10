@@ -36,4 +36,6 @@
 - Se recomienda usar herramientas de seguimiento las cuales generan codigos por bugs o tareas, asi puedes agregar un commit: [BUG-182849], asi despues puedes agrupar los commits realizados en relacion a una tarea o commit.
 - Es recomendable usar el archivo .gitignore para evitar enviar al repositorio compilaciones o archivos pesados o paquetes que pueden ser facilmente recreados a ejecutar un comando de instalacion o para evitar subir claves o secretos a un repositorio de codigo en especial si es publico.
 - git branch <nombre_rama>: nos permite crear una rama aparte para agregar nuevas funcionalidad sin afectar a los archivos originales.
-git branch: los listas las ramas existentes y nos muestra en cual nos encontramos actualmente.
+- git branch: los listas las ramas existentes y nos muestra en cual nos encontramos actualmente.
+- git switch <nombre_rama>: moverse entre ramas.
+- git switch -c <nombre_rama>: crea una nueva rama y te mueve hacia ella despues de crearla.
