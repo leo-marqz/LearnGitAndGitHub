@@ -2,3 +2,5 @@ Archivo creado en la rama master
 
 Esta linea se creo estando en la rama llamada crear-nuevo-parrafo.
 
+Ocurrieron cambios en la rama master mientras se trabaja en la rama nueva-rama-archivo.
+
