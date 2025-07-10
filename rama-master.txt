@@ -4,3 +4,5 @@ Esta linea se creo estando en la rama llamada crear-nuevo-parrafo.
 
 Ocurrieron cambios en la rama master mientras se trabaja en la rama nueva-rama-archivo.
 
+Este conflicto se creo en la rama llamada rama-conflicto.
+
