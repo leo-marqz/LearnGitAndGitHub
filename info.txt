@@ -1,4 +1,6 @@
-Informacion Util
-Aprendiendo Git
-Aprendiendo GitHub
-Aprendiendo Git Actions
+
+ayudame con lo siguiente:
+Un CPU equivale a ? tantos cores,
+Un Core equivale a ? tantos hilos (thread o hyperthread)
+Un Thread equivale a ? cualquier otros dato y a tantos vCPUs
+Existen los vCores o son solo el equivalente a un Core fisico de un solo hilo?
