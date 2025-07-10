@@ -37,6 +37,8 @@
 - git rebase <nombre_rama>: usado comunmente para traernos los posibles nuevos cambios de la rama main o master hacia nuestra rama de desarrollo, antes de realizar un merge de la rama en desarrollo con la main o master.
 - git rebase -i HEAD~3: Este comando nos permite aplastar o hacer de muchos commits a uno solo. Aqui indicamos que tome en cuenta desde HEAD hacia atras, 3 commits, los cuales convertiriamos en uno solo.
 - git stash: guardar cambios si necesidad de crear un commit, los cambios no se comparten con los demas que tambien trabajen en el mismo projecto, eso sucedera hasta que hagas un commit y un pull request. el guardado de stash es en local.
+- git stash list: nos permite lo que tenemos guardado con stash.
+- git stash pop: nos devuelve los cambios de stash hacia el espacio normal de trabajo y borra el contenido de stash, dejando listo el contenido o cambios para agregarlos a staying y luego al repositorio.
 
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
