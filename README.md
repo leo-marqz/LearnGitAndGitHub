@@ -33,6 +33,7 @@
 - git switch <nombre_rama>: moverse entre ramas.
 - git switch -c <nombre_rama>: crea una nueva rama y te mueve hacia ella despues de crearla.
 - git branch -d <nombre_rama>: Eliminar rama.
+- git log --oneline --graph: nos permite ver los commits e historicos de cambios mostrando las ramas.
 
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
