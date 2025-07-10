@@ -39,6 +39,9 @@
 - git stash: guardar cambios si necesidad de crear un commit, los cambios no se comparten con los demas que tambien trabajen en el mismo projecto, eso sucedera hasta que hagas un commit y un pull request. el guardado de stash es en local.
 - git stash list: nos permite lo que tenemos guardado con stash.
 - git stash pop: nos devuelve los cambios de stash hacia el espacio normal de trabajo y borra el contenido de stash, dejando listo el contenido o cambios para agregarlos a staying y luego al repositorio.
+- git cherry-pick <commit_id>: nos permite tomar algunos commits de un conjunto de commits y aplicarlo a distintas ramas. usualmente usado para corregir errores en diferentes ramas y asi evitar hacer commits para corregir el mismo error en diferentes ramas.
+- git log <nombre_rama> -n 1: con este comando podemos visualizar logs en diferentes ramas, en esta ocasion visualizamos el ultimo commit de una rama.
+
 
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
