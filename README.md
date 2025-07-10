@@ -41,7 +41,8 @@
 - git stash pop: nos devuelve los cambios de stash hacia el espacio normal de trabajo y borra el contenido de stash, dejando listo el contenido o cambios para agregarlos a staying y luego al repositorio.
 - git cherry-pick <commit_id>: nos permite tomar algunos commits de un conjunto de commits y aplicarlo a distintas ramas. usualmente usado para corregir errores en diferentes ramas y asi evitar hacer commits para corregir el mismo error en diferentes ramas.
 - git log <nombre_rama> -n 1: con este comando podemos visualizar logs en diferentes ramas, en esta ocasion visualizamos el ultimo commit de una rama.
-
+- git tag -a <version_o_nombre_etiqueta> -m <mensaje>: nos permite crear una etiqueta, comunmente usado para versionar software final ejemplo: dotnet 8.1.101, etc.
+- git tag: nos devuelve la ultima etiqueta creada.
 
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
