@@ -43,6 +43,9 @@
 - git log <nombre_rama> -n 1: con este comando podemos visualizar logs en diferentes ramas, en esta ocasion visualizamos el ultimo commit de una rama.
 - git tag -a <version_o_nombre_etiqueta> -m <mensaje>: nos permite crear una etiqueta, comunmente usado para versionar software final ejemplo: dotnet 8.1.101, etc.
 - git tag: nos devuelve la ultima etiqueta creada.
+- git clone add <url_repository>: nos permite clonar o crear una copia de un repositorio.
+- git branch -a: me permite ver todas las ramas, incluso las remotas.
+- git switch <nombre_rama>: si tenemos una rama <nombre_rama> en remoto y ejectuamos el comando actual, y la rama se llama igual a una de las ramas en remoto, esta se crea en base a esa rama remota.
 
 #### Buenas practicas
 - Al crear un commit es necesario agregar un mensaje que nos de contexto, si se corrigio un error, se agrego nueva funcionalidad, etc.
