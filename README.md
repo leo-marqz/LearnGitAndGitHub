@@ -64,9 +64,18 @@
 - Ramas de Lanzamiento (util cuando se tienen muchas versiones de un mismo software)
 
 ## Apriendiendo sobre Markdown
+
+> Insertamos una url a mi perfil de [LinkedIn](https://www.linkedin.com/in/leomarqz)
+
 > Insertamos una imagen:
 <img width="225" height="225" alt="git" src="https://github.com/user-attachments/assets/85e5bc47-6592-4a3f-a645-970d432e8075" />
 
 
-> Insertamos una url a mi perfil de [LinkedIn](https://www.linkedin.com/in/leomarqz)
+> Insertamos una tabla
+
+|Id|Name|Email|Actions|
+|--|----|-----|-------|
+|1001|Elmer Marquez|leomarqz2020@gmail.com|`Edit` `Delete`|
+|1002|Leonel Marquez|leomarqz@gamil.com|`Edit` `Delete`|
+
 
