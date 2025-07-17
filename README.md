@@ -62,3 +62,11 @@
 - Ramas de Errores.
 - Ramas de Errores Graves.
 - Ramas de Lanzamiento (util cuando se tienen muchas versiones de un mismo software)
+
+## Apriendiendo sobre Markdown
+> Insertamos una imagen:
+<img width="225" height="225" alt="git" src="https://github.com/user-attachments/assets/85e5bc47-6592-4a3f-a645-970d432e8075" />
+
+
+> Insertamos una url a mi perfil de [LinkedIn](www.linkedin.com/in/leomarqz)
+
