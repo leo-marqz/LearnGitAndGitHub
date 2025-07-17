@@ -68,5 +68,5 @@
 <img width="225" height="225" alt="git" src="https://github.com/user-attachments/assets/85e5bc47-6592-4a3f-a645-970d432e8075" />
 
 
-> Insertamos una url a mi perfil de [LinkedIn](www.linkedin.com/in/leomarqz)
+> Insertamos una url a mi perfil de [LinkedIn](https://www.linkedin.com/in/leomarqz)
 
